@@ -20,6 +20,7 @@ This repository demonstrates a comprehensive **Manual Testing Lifecycle** perfor
 | **[03_Test_Cases](./03_Test_Cases)** | 📂 **Detailed Test Cases** | Step-by-step scripts, Test Data Management, Expected vs. Actual Results. |
 | **[04_API_Testing](./04_API_Testing)** | 🔌 **Postman Collection** | API Endpoint Validation, HTTP Status Checks (200 OK), Performance testing. |
 | **[05_Database](./05_Database_Validation)** | 🗄️ **SQL Scripts** | Data Integrity Verification, `SELECT` queries, User & Order validation logic. |
+| **[06_Traceability](./06_Traceability)** | 🔗 **Traceability Matrix** | Linking Requirements to Test Cases & Bugs (RTM). |
 
 ---
 
