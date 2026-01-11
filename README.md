@@ -40,5 +40,5 @@ This repository demonstrates a comprehensive **Manual Testing Lifecycle** perfor
 ---
 
 ## 👨‍💻 Author
-**[Your Name]**
-*QA Engineer | Electrical Engineer | Python Automator*
+**Mohamad Alimin**
+*QA Engineer*
